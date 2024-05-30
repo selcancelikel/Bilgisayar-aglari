@@ -7,5 +7,7 @@ projenin olması geektiği dizin->ns-3.41/projeadi/build
 cmake ..
 make
 ./projeadi
+
 # 
+
 
