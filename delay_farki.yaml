@@ -1,0 +1,141 @@
+Veriler:
+  - Time: 0
+    Delay_200_ms:
+      Alinan_Paket: 0
+      Kayip_Paket: 800
+    Delay_200000_us:
+      Alinan_Paket: 0
+      Kayip_Paket: 800
+  - Time: 400
+    Delay_200_ms:
+      Alinan_Paket: 775
+      Kayip_Paket: 25
+    Delay_200000_us:
+      Alinan_Paket: 775
+      Kayip_Paket: 25
+  - Time: 800
+    Delay_200_ms:
+      Alinan_Paket: 776
+      Kayip_Paket: 24
+    Delay_200000_us:
+      Alinan_Paket: 781
+      Kayip_Paket: 19
+  - Time: 1200
+    Delay_200_ms:
+      Alinan_Paket: 766
+      Kayip_Paket: 34
+    Delay_200000_us:
+      Alinan_Paket: 773
+      Kayip_Paket: 27
+  - Time: 1600
+    Delay_200_ms:
+      Alinan_Paket: 768
+      Kayip_Paket: 32
+    Delay_200000_us:
+      Alinan_Paket: 779
+      Kayip_Paket: 21
+  - Time: 2000
+    Delay_200_ms:
+      Alinan_Paket: 776
+      Kayip_Paket: 24
+    Delay_200000_us:
+      Alinan_Paket: 776
+      Kayip_Paket: 24
+  - Time: 2400
+    Delay_200_ms:
+      Alinan_Paket: 769
+      Kayip_Paket: 31
+    Delay_200000_us:
+      Alinan_Paket: 784
+      Kayip_Paket: 16
+  - Time: 2800
+    Delay_200_ms:
+      Alinan_Paket: 760
+      Kayip_Paket: 40
+    Delay_200000_us:
+      Alinan_Paket: 778
+      Kayip_Paket: 22
+  - Time: 3200
+    Delay_200_ms:
+      Alinan_Paket: 757
+      Kayip_Paket: 43
+    Delay_200000_us:
+      Alinan_Paket: 767
+      Kayip_Paket: 33
+  - Time: 3600
+    Delay_200_ms:
+      Alinan_Paket: 755
+      Kayip_Paket: 45
+    Delay_200000_us:
+      Alinan_Paket: 757
+      Kayip_Paket: 43
+  - Time: 4000
+    Delay_200_ms:
+      Alinan_Paket: 760
+      Kayip_Paket: 40
+    Delay_200000_us:
+      Alinan_Paket: 763
+      Kayip_Paket: 37
+  - Time: 4400
+    Delay_200_ms:
+      Alinan_Paket: 760
+      Kayip_Paket: 40
+    Delay_200000_us:
+      Alinan_Paket: 752
+      Kayip_Paket: 48
+  - Time: 4800
+    Delay_200_ms:
+      Alinan_Paket: 767
+      Kayip_Paket: 33
+    Delay_200000_us:
+      Alinan_Paket: 762
+      Kayip_Paket: 38
+  - Time: 5200
+    Delay_200_ms:
+      Alinan_Paket: 771
+      Kayip_Paket: 29
+    Delay_200000_us:
+      Alinan_Paket: 759
+      Kayip_Paket: 41
+  - Time: 5600
+    Delay_200_ms:
+      Alinan_Paket: 771
+      Kayip_Paket: 29
+    Delay_200000_us:
+      Alinan_Paket: 752
+      Kayip_Paket: 48
+  - Time: 6000
+    Delay_200_ms:
+      Alinan_Paket: 764
+      Kayip_Paket: 36
+    Delay_200000_us:
+      Alinan_Paket: 752
+      Kayip_Paket: 48
+  - Time: 6400
+    Delay_200_ms:
+      Alinan_Paket: 762
+      Kayip_Paket: 38
+    Delay_200000_us:
+      Alinan_Paket: 767
+      Kayip_Paket: 33
+  - Time: 6800
+    Delay_200_ms:
+      Alinan_Paket: 766
+      Kayip_Paket: 34
+    Delay_200000_us:
+      Alinan_Paket: 761
+      Kayip_Paket: 39
+  - Time: 7200
+    Delay_200_ms:
+      Alinan_Paket: 768
+      Kayip_Paket: 32
+    Delay_200000_us:
+      Alinan_Paket: 760
+      Kayip_Paket: 40
+  - Time: 7600
+    Delay_200_ms:
+      Alinan_Paket: 760
+      Kayip_Paket: 40
+    Delay_200000_us:
+      Alinan_Paket: 766
+      Kayip_Paket: 34
